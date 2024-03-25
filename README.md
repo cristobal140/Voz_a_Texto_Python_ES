@@ -15,8 +15,11 @@ Nota: La instalación de PyAudio puede requerir dependencias adicionales según 
 Uso.
 
 1.- Ejecutar el archivo Speech_Recognition.py.
+
 2.- Hablar por el micrófono cuando se indique.
+
 3.- El programa convertirá automáticamente el audio en texto y lo guardará en el archivo Audio_a_Texto.txt.
+
 Nota: Si se pronuncia "140" durante la grabación, el programa se detendrá inmediatamente.
 
 ¡Disfruta convirtiendo audio en texto con este sencillo programa!
