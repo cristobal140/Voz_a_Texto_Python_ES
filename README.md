@@ -5,6 +5,7 @@ Este es un pequeño programa en Python que convierte audio grabado desde un micr
 Instalación.
 
 1.- Instalar las dependencias necesarias:
+
 pip install SpeechRecognition pyttsx3 pyaudio setuptools
 
 Nota: La instalación de PyAudio puede requerir dependencias adicionales según el sistema operativo. Consulte la documentación oficial de PyAudio para obtener más información.
